@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# Storie di Terra
-
 Storie di Terra è un podcast itinerante che racconta personaggi che producono vino in territori densi di storia.
 
 Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le radici nel Medioevo che aneddoti contemporanei e avvolti dall’ebrezza ci siamo lasciati conquistare dal mistero di ogni territorio.
@@ -18,8 +16,23 @@ Avete voglia di seguirci?
 Intrigata dai misteri delle Statue Stele, godendo di un bicchiere di Pollera, Debbie parla con Franesco e Giacomo.
 
 ### Francesco Ruschi Noceti
-Ddoppio cognome, sangue nobile fonda  l’azienda insieme ai fratelli nel 1978 recuperando la tradizione famigliare di “terra vitiata” risalente al 1454. 
+Doppio cognome, sangue nobile fonda  l’azienda insieme ai fratelli nel 1978 recuperando la tradizione famigliare di “terra vitiata” risalente al 1454. 
 Ha visto Veronelli inchinarsi davanti a un su vino.
 
 ### Giacomo Pinelli
 Ha pubblicato 8 romanzi alcuni dei quali ambientati a Montemarcio, un paesino immaginario della Lunigiana. Ha dedicato una trilogia al novecento Italiano. Fuma, beve, ama.
+
+
+<div id='buzzsprout-large-player-1350580-tags-carso'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1350580.js?player=large&tags=carso&container_id=buzzsprout-large-player-1350580-tags-carso'></script>
+Sospesa tra un labile confine e un bicchiere di Malvasija, Debbie parla con Marko e Roberto.
+
+### Marko Fon
+
+Marko è un poeta del vino.
+Quando parla della vite dice che ogni pianta viene potata e interpretata singolarmente perché possa raggiungere il suo equilibrio ideale, a seconda di quanta terra c’è sopra alla roccia madre.
+Bere i vini prodotti da questa terra è libertà e speranza.
+
+### Roberto Terpin
+Nasce nel 1960 frutto di un pluri impasto italo-sloveno-dalmato, aree molto liquide.
+È un viaggiatore senza biglietto.
+
