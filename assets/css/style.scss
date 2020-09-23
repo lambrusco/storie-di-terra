@@ -4,14 +4,24 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-color: #90DFB1;
-    background-image: none;
+  background-color: #90dfb1;
+  background-image: none;
 }
 
-h1{
-    text-indent: -9999px;
-    position: absolute;
+h1 {
+  text-indent: -9999px;
+  position: absolute;
 }
 .logo {
-    width: 600px;
+  width: 80%;
+  max-width: 40rem;
+}
+
+.main-content {
+  h4 {
+    margin-bottom: 0;
+  }
+  p {
+    margin-top: 0;
+  }
 }
