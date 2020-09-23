@@ -16,14 +16,16 @@
 title: Storie di Terra
 email: debbie@storiediterra.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Storie...
+  Storie di Terra è un podcast itinerante che racconta personaggi che producono vino in territori densi di storia.
+  Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le radici nel Medioevo che aneddoti contemporanei e avvolti dall’ebrezza ci siamo lasciati conquistare dal mistero di ogni territorio.
+  Ci ha guidato la passione per il vino, per le storie, per i sogni.
+  Avete voglia di seguirci? Andiamo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://storiediterra.it" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

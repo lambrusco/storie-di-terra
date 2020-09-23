@@ -10,7 +10,7 @@ Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le 
 
 Ci ha guidato la passione per il vino, per le storie, per i sogni.
 
-Avete voglia di seguirci?
+Avete voglia di seguirci? Andiamo.
 
 <div id='episode-lunigiana'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1350580/5434912-lunigiana.js?container_id=episode-lunigiana&player=small'></script>
 Intrigata dai misteri delle Statue Stele, godendo di un bicchiere di Pollera, Debbie parla con Franesco e Giacomo.
