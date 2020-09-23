@@ -6,19 +6,19 @@ layout: default
 ---
 Storie di Terra è un podcast itinerante che racconta personaggi che producono vino in territori densi di storia.
 
-Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le radici nel Medioevo che aneddoti contemporanei e avvolti dall’ebrezza ci siamo lasciati conquistare dal mistero di ogni territorio.
+Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le radici nel Medioevo che aneddoti contemporanei e, avvolti dall’ebrezza, ci siamo lasciati conquistare dal mistero di ogni territorio.
 
 Ci ha guidato la passione per il vino, per le storie, per i sogni.  
 Avete voglia di seguirci?  
 Andiamo.
 
 ## Episodio 1: Lunigiana
-Intrigata dai misteri delle Statue Stele, godendo di un bicchiere di Pollera, Debbie parla con Franesco e Giacomo.
+Intrigata dai misteri delle Statue Stele, godendo di un bicchiere di Pollera, Debbie parla con Francesco e Giacomo.
 <div id='episode-lunigiana'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1350580/5434912-lunigiana.js?container_id=episode-lunigiana&player=small'></script>
 
 
 #### Francesco Ruschi Noceti
-Doppio cognome, sangue nobile fonda  l’azienda insieme ai fratelli nel 1978 recuperando la tradizione famigliare di “terra vitiata” risalente al 1454.  
+Doppio cognome, sangue nobile, fonda l’azienda insieme ai fratelli nel 1978 recuperando la tradizione familiare di “terra vitiata” risalente al 1454.  
 Ha visto Veronelli inchinarsi davanti a un su vino.
 
 #### Giacomo Pinelli
