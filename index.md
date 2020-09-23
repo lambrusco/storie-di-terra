@@ -9,7 +9,8 @@ Storie di Terra è un podcast itinerante che racconta personaggi che producono v
 Abbiamo sorseggiato e ascoltato, abbiamo scoperto sia racconti che affondano le radici nel Medioevo che aneddoti contemporanei e avvolti dall’ebrezza ci siamo lasciati conquistare dal mistero di ogni territorio.
 
 Ci ha guidato la passione per il vino, per le storie, per i sogni.  
-Avete voglia di seguirci? Andiamo.
+Avete voglia di seguirci?  
+Andiamo.
 
 ## Episodio 1: Lunigiana
 Intrigata dai misteri delle Statue Stele, godendo di un bicchiere di Pollera, Debbie parla con Franesco e Giacomo.
