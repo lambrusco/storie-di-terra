@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Chi siamo
+permalink: /chi-siamo/
 ---
 
 ## Debbie AKA Deborah Penzo

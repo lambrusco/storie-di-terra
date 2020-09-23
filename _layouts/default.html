@@ -12,15 +12,12 @@
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">Storie di terra</h1>
-      <img class="logo" src="assets/logo.svg"></img>
+      <a href="/"><img class="logo" src="/assets/logo.svg"></img></a>
         </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
-      <footer class="site-footer">
-        <a href="mailto:debbie@storiediterra.it">debbie@storiediterra.it</a>
-      </footer>
+      <footer class="site-footer">{% include footer.html %}</footer>
     </main>
     {% include analytics.html %} 
   </body>
