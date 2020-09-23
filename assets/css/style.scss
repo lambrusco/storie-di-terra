@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: #90DFB1;
+    background-image: none;
+}
+
+h1{
+    text-indent: -9999px;
+    position: absolute;
+}
+.logo {
+    width: 600px;
+}
